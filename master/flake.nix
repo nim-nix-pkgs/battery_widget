@@ -11,6 +11,7 @@
   inputs.src-battery_widget-master.ref   = "refs/heads/master";
   inputs.src-battery_widget-master.owner = "Cu7ious";
   inputs.src-battery_widget-master.repo  = "nim-battery-widget";
+  inputs.src-battery_widget-master.dir   = "";
   inputs.src-battery_widget-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
