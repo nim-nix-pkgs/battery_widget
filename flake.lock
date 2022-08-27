@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1660789329,
-        "narHash": "sha256-opE7DgTp5V9bTcse7Zr7AXI/mNPRxyZSdN75pVNJaDg=",
+        "lastModified": 1660795070,
+        "narHash": "sha256-TkvO+56HAOwaHxvN2nJyJZ9sIrprWBNdAmlTvXZjsh8=",
         "owner": "nim-nix-pkgs",
         "repo": "battery_widget",
-        "rev": "201e7635b942011a17009aeeb5fb18269eeb6e90",
+        "rev": "657b83b1bb7121d11ef6d0a255783944b4e368a9",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
